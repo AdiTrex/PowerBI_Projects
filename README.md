@@ -17,6 +17,8 @@ Projects--
 Here are the projects I have performed and uploaded in this repository:
 
 1. HR Analytics Dashboard
+  
+2. Online Retail Store
 
 
 Contributing--
